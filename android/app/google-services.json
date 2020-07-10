@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "97326948381",
+    "firebase_url": "https://flash-chat-flutter-aadba.firebaseio.com",
+    "project_id": "flash-chat-flutter-aadba",
+    "storage_bucket": "flash-chat-flutter-aadba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97326948381:android:bafcb57da8a1132b7d66f4",
+        "android_client_info": {
+          "package_name": "co.mohamedsamy.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97326948381-sfr36lj27uvj9hr0o2sn2k93h85drpln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpbb0GSHV51NwyrNhUb7spvC-Qj-P1MAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97326948381-sfr36lj27uvj9hr0o2sn2k93h85drpln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
